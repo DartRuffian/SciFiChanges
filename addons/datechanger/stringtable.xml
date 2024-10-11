@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="SFT">
     <Package name="DateChanger">
+        <Key ID="STR_sft_datechanger_displayName">
+            <English>Date Changer</English>
+        </Key>
+
         <Key ID="STR_sft_datechanger_yearMin_name">
             <English>Minimum Year</English>
         </Key>
