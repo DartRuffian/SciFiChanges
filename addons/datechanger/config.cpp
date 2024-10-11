@@ -7,7 +7,7 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "cba_main"
+            "sft_main"
         };
         units[] = {};
         weapons[] = {};
@@ -15,5 +15,5 @@ class CfgPatches {
     };
 };
 
-#include "CfgSettings.hpp"
 #include "CfgEventHandlers.hpp"
+#include "Cfg3DEN.hpp"
