@@ -26,7 +26,9 @@
 The project is entirely **open-source** and any contributions to fix other mods are welcome.
 
 ## Core Features
-- Feature
+- Customizable Years
+  - The "year" from the Environment menu in the Eden Editor can now be customized with any year range. Look at the Addon Options to configure a custom range.
+  - Press <kbd>Ctrl</kbd> + <kbd>I</kbd> to open the Environment menu.
 
 ## Contributing
 For new contributers, see the [Contributing Setup & Guidelines](./.github/CONTRIBUTING.md).
