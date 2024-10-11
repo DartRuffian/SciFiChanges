@@ -3,35 +3,25 @@
 <h1 align="center">Sci-Fi Tweaks</h1>
 <p align="center">
     <a href="https://github.com/DartRuffian/SciFiTweaks/releases/latest">
-        <img src="https://img.shields.io/badge/Version-0.0.0.0-blue?style=flat-square" alt="Sci-Fi Tweaks Version">
+        <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Sci-Fi Tweaks Version">
     </a>
     <a href="https://github.com/DartRuffian/SciFiTweaks/issues">
         <img src="https://img.shields.io/github/issues-raw/DartRuffian/SciFiTweaks.svg?style=flat-square&label=Issues" alt="Sci-Fi Tweaks Issues">
     </a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=MOD_ID">
-        <img src="https://img.shields.io/steam/downloads/MOD_ID.svg?style=flat-square&label=Downloads" alt="Sci-Fi Tweaks Downloads">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3346952826">
+        <img src="https://img.shields.io/steam/downloads/3346952826.svg?style=flat-square&label=Downloads" alt="Sci-Fi Tweaks Downloads">
     </a>
     <a href="https://github.com/DartRuffian/SciFiTweaks/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="Sci-Fi Tweaks License">
     </a>
-    <img src="https://img.shields.io/github/actions/workflow/status/DartRuffian/SciFiTweaks/Hemtt.yml?style=flat-square&label=Build
-    " alt="Build Status">
+    <img src="https://img.shields.io/github/actions/workflow/status/DartRuffian/SciFiTweaks/hemtt.yml?style=flat-square&label=Build" alt="Build Status">
 </p>
 
 <p align="center">
     <b>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases/latest">CBA A3</a></b>
 </p>
 
-# Initial Project Setup!
-Delete this section after the project has been initially set up:
-1. Find and replace all instances of `Sci-Fi Tweaks` with the mod's name.
-2. Find and replace all instances of `SciFiTweaks` with the mod's name *and no spaces*.
-   - This should be the name of the repository on GitHub.
-3. Find and replace all instances of `sft` with the mod's prefix.
-   - This should be all lowercase.
-4. After the initial Steam upload, find and replace all instances of `MOD_ID` with the mod's Steam Workshop id.
-
-**Sci-Fi Tweaks** (SFT) aims to...
+**Sci-Fi Tweaks** (SFT) aims to add small tweaks to Arma for players who use Sci-Fi mods. Small features such as being able to further customize the year set in the game (press Ctrl+I in the Eden Editor to open the Environment menu).
 
 The project is entirely **open-source** and any contributions to fix other mods are welcome.
 
