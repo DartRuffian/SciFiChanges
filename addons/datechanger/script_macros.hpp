@@ -1,0 +1,2 @@
+#define VANILLA_MIN_YEAR "1900"
+#define VANILLA_MAX_YEAR "2050"

@@ -4,11 +4,10 @@ class CfgPatches {
     class ADDON {
         author = AUTHOR;
         authors[] = {"Dart"};
-        url = CSTRING(url);
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "cba_main"
+            "sft_main"
         };
         units[] = {};
         weapons[] = {};
@@ -16,5 +15,5 @@ class CfgPatches {
     };
 };
 
-#include "CfgSettings.hpp"
 #include "CfgEventHandlers.hpp"
+#include "Cfg3DEN.hpp"

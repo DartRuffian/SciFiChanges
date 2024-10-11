@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="SFT">
+    <Package name="Main">
+        <Key ID="STR_sft_main_url">
+            <English>https://github.com/DartRuffian/SciFiTweaks</English>
+            <German>https://github.com/DartRuffian/SciFiTweaks</German>
+            <Chinese>https://github.com/DartRuffian/SciFiTweaks</Chinese>
+            <Chinesesimp>https://github.com/DartRuffian/SciFiTweaks</Chinesesimp>
+            <Italian>https://github.com/DartRuffian/SciFiTweaks</Italian>
+            <Czech>https://github.com/DartRuffian/SciFiTweaks</Czech>
+            <Japanese>https://github.com/DartRuffian/SciFiTweaks</Japanese>
+            <Polish>https://github.com/DartRuffian/SciFiTweaks</Polish>
+            <French>https://github.com/DartRuffian/SciFiTweaks</French>
+            <Portuguese>https://github.com/DartRuffian/SciFiTweaks</Portuguese>
+            <Spanish>https://github.com/DartRuffian/SciFiTweaks</Spanish>
+            <Turkish>https://github.com/DartRuffian/SciFiTweaks</Turkish>
+            <Russian>https://github.com/DartRuffian/SciFiTweaks</Russian>
+            <Korean>https://github.com/DartRuffian/SciFiTweaks</Korean>
+        </Key>
+    </Package>
+</Project>
