@@ -1,7 +1,7 @@
-MOD_PREFIX_main
+sft_main
 ===================
 
-Main Addon for MOD_TITLE
+Main Addon for Sci-Fi Tweaks
 
 ## Maintainers
 
