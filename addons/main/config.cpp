@@ -4,6 +4,7 @@ class CfgPatches {
     class ADDON {
         author = AUTHOR;
         authors[] = {"Dart"};
+        url = CSTRING(url);
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
