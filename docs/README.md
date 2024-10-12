@@ -2,7 +2,7 @@
 
 <h1 align="center">Sci-Fi Tweaks</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" alt="Sci-Fi Tweaks Version">
+    <img src="https://img.shields.io/badge/Version-0.0.0-blue?style=flat-square" alt="Sci-Fi Tweaks Version">
     <a href="https://github.com/DartsArmaMods/SciFiTweaks/issues">
         <img src="https://img.shields.io/github/issues-raw/DartRuffian/SciFiTweaks.svg?style=flat-square&label=Issues" alt="Sci-Fi Tweaks Issues">
     </a>
