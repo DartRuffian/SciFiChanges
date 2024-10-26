@@ -3,19 +3,19 @@
     <Package name="Main">
         <Key ID="STR_sft_main_url">
             <English>https://github.com/DartsArmaMods/SciFiTweaks</English>
+            <Czech>https://github.com/DartsArmaMods/SciFiTweaks</Czech>
+            <French>https://github.com/DartsArmaMods/SciFiTweaks</French>
+            <Spanish>https://github.com/DartsArmaMods/SciFiTweaks</Spanish>
+            <Italian>https://github.com/DartsArmaMods/SciFiTweaks</Italian>
+            <Polish>https://github.com/DartsArmaMods/SciFiTweaks</Polish>
+            <Portuguese>https://github.com/DartsArmaMods/SciFiTweaks</Portuguese>
+            <Russian>https://github.com/DartsArmaMods/SciFiTweaks</Russian>
             <German>https://github.com/DartsArmaMods/SciFiTweaks</German>
+            <Korean>https://github.com/DartsArmaMods/SciFiTweaks</Korean>
+            <Japanese>https://github.com/DartsArmaMods/SciFiTweaks</Japanese>
             <Chinese>https://github.com/DartsArmaMods/SciFiTweaks</Chinese>
             <Chinesesimp>https://github.com/DartsArmaMods/SciFiTweaks</Chinesesimp>
-            <Italian>https://github.com/DartsArmaMods/SciFiTweaks</Italian>
-            <Czech>https://github.com/DartsArmaMods/SciFiTweaks</Czech>
-            <Japanese>https://github.com/DartsArmaMods/SciFiTweaks</Japanese>
-            <Polish>https://github.com/DartsArmaMods/SciFiTweaks</Polish>
-            <French>https://github.com/DartsArmaMods/SciFiTweaks</French>
-            <Portuguese>https://github.com/DartsArmaMods/SciFiTweaks</Portuguese>
-            <Spanish>https://github.com/DartsArmaMods/SciFiTweaks</Spanish>
             <Turkish>https://github.com/DartsArmaMods/SciFiTweaks</Turkish>
-            <Russian>https://github.com/DartsArmaMods/SciFiTweaks</Russian>
-            <Korean>https://github.com/DartsArmaMods/SciFiTweaks</Korean>
         </Key>
     </Package>
 </Project>
