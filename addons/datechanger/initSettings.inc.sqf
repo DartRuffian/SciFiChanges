@@ -6,6 +6,6 @@
 
 [
     QGVAR(yearMax), "EDITBOX",
-    [LSTRING(yearMin_name), LSTRING(yearMin_tooltip)],
+    [LSTRING(yearMax_name), LSTRING(yearMax_tooltip)],
     _category, VANILLA_MAX_YEAR, true
 ] call CBA_fnc_addSetting;
