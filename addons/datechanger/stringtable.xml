@@ -4,19 +4,17 @@
         <Key ID="STR_sft_datechanger_displayName">
             <English>Date Changer</English>
         </Key>
-
-        <Key ID="STR_sft_datechanger_yearMin_name">
-            <English>Minimum Year</English>
-        </Key>
-        <Key ID="STR_sft_datechanger_yearMin_tooltip">
-            <English>Minimum year to show in the date picker. See Attributes -> Environment (Ctrl+I) in the Eden Editor.</English>
-        </Key>
-
         <Key ID="STR_sft_datechanger_yearMax_name">
             <English>Maximum Year</English>
         </Key>
         <Key ID="STR_sft_datechanger_yearMax_tooltip">
-            <English>Maximum year to show in the date picker. See Attributes -> Environment (Ctrl+I) in the Eden Editor.</English>
+            <English>Maximum year to show in the date picker. See Attributes -&gt; Environment (Ctrl+I) in the Eden Editor.</English>
+        </Key>
+        <Key ID="STR_sft_datechanger_yearMin_name">
+            <English>Minimum Year</English>
+        </Key>
+        <Key ID="STR_sft_datechanger_yearMin_tooltip">
+            <English>Minimum year to show in the date picker. See Attributes -&gt; Environment (Ctrl+I) in the Eden Editor.</English>
         </Key>
     </Package>
 </Project>
