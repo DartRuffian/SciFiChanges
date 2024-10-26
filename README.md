@@ -23,7 +23,7 @@
 
 **Sci-Fi Tweaks** (SFT) aims to add small tweaks to Arma for players who use Sci-Fi mods. Small features such as being able to further customize the year set in the game (press Ctrl+I in the Eden Editor to open the Environment menu).
 
-The project is entirely **open-source** and any contributions to fix other mods are welcome.
+The project is entirely **open-source** and any contributions are welcome.
 
 ## Core Features
 - Customizable Years
