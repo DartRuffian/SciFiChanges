@@ -1,7 +1,7 @@
-sft_main
+sfs_main
 ===================
 
-Main Addon for Sci-Fi Tweaks
+Main Addon for Sci-Fi Systems
 
 ## Maintainers
 

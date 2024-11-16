@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * _ctrlYear call sft_datechanger_fnc_yearOnLoad;
+ * _ctrlYear call sfs_datechanger_fnc_yearOnLoad;
  *
  * Public: No
  */

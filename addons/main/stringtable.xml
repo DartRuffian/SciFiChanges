@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="SFT">
+<Project name="sfs">
     <Package name="Main">
-        <Key ID="STR_sft_main_url">
-            <English>https://github.com/DartsArmaMods/SciFiTweaks</English>
-            <Czech>https://github.com/DartsArmaMods/SciFiTweaks</Czech>
-            <French>https://github.com/DartsArmaMods/SciFiTweaks</French>
-            <Spanish>https://github.com/DartsArmaMods/SciFiTweaks</Spanish>
-            <Italian>https://github.com/DartsArmaMods/SciFiTweaks</Italian>
-            <Polish>https://github.com/DartsArmaMods/SciFiTweaks</Polish>
-            <Portuguese>https://github.com/DartsArmaMods/SciFiTweaks</Portuguese>
-            <Russian>https://github.com/DartsArmaMods/SciFiTweaks</Russian>
-            <German>https://github.com/DartsArmaMods/SciFiTweaks</German>
-            <Korean>https://github.com/DartsArmaMods/SciFiTweaks</Korean>
-            <Japanese>https://github.com/DartsArmaMods/SciFiTweaks</Japanese>
-            <Chinese>https://github.com/DartsArmaMods/SciFiTweaks</Chinese>
-            <Chinesesimp>https://github.com/DartsArmaMods/SciFiTweaks</Chinesesimp>
-            <Turkish>https://github.com/DartsArmaMods/SciFiTweaks</Turkish>
+        <Key ID="STR_sfs_main_url">
+            <English>https://github.com/DartsArmaMods/SciFiSystems</English>
+            <Czech>https://github.com/DartsArmaMods/SciFiSystems</Czech>
+            <French>https://github.com/DartsArmaMods/SciFiSystems</French>
+            <Spanish>https://github.com/DartsArmaMods/SciFiSystems</Spanish>
+            <Italian>https://github.com/DartsArmaMods/SciFiSystems</Italian>
+            <Polish>https://github.com/DartsArmaMods/SciFiSystems</Polish>
+            <Portuguese>https://github.com/DartsArmaMods/SciFiSystems</Portuguese>
+            <Russian>https://github.com/DartsArmaMods/SciFiSystems</Russian>
+            <German>https://github.com/DartsArmaMods/SciFiSystems</German>
+            <Korean>https://github.com/DartsArmaMods/SciFiSystems</Korean>
+            <Japanese>https://github.com/DartsArmaMods/SciFiSystems</Japanese>
+            <Chinese>https://github.com/DartsArmaMods/SciFiSystems</Chinese>
+            <Chinesesimp>https://github.com/DartsArmaMods/SciFiSystems</Chinesesimp>
+            <Turkish>https://github.com/DartsArmaMods/SciFiSystems</Turkish>
         </Key>
     </Package>
 </Project>

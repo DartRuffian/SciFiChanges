@@ -1,6 +1,6 @@
-name = "Sci-Fi Tweaks"
+name = "Sci-Fi Systems"
 author = "DartRuffian"
-prefix = "sft"
+prefix = "sfs"
 mainprefix = "z"
 
 [version]
@@ -11,8 +11,8 @@ git_hash = 0
 include = [
     "mod.cpp",
     "meta.cpp",
-    "logo_sft.png",
-    "logo_sft_ca.paa",
+    "logo_sfs.png",
+    "logo_sfs_ca.paa",
     "LICENSE.md",
     "README.md",
 ]
