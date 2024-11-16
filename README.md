@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0.1-blue?style=flat-square" alt="Sci-Fi Systems Version">
     <a href="https://github.com/DartsArmaMods/SciFiSystems/issues">
-        <img src="https://img.shields.io/github/issues-raw/DartRuffian/SciFiSystems.svg?style=flat-square&label=Issues" alt="Sci-Fi Systems Issues">
+        <img src="https://img.shields.io/github/issues-raw/DartsArmaMods/SciFiSystems.svg?style=flat-square&label=Issues" alt="Sci-Fi Systems Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3346952826">
         <img src="https://img.shields.io/steam/downloads/3346952826.svg?style=flat-square&label=Downloads" alt="Sci-Fi Systems Downloads">
