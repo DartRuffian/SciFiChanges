@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [] call sft_addonName_fnc_empty;
+ * [] call sfs_addonName_fnc_empty;
  *
  * Public: No
  */

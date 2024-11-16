@@ -1,6 +1,6 @@
 #define MAINPREFIX z
-#define PREFIX sft
-#define MOD_NAME Sci-Fi Tweaks
+#define PREFIX sfs
+#define MOD_NAME Sci-Fi Systems
 #define AUTHOR "DartRuffian"
 
 #define REQUIRED_VERSION 2.16
