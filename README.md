@@ -2,7 +2,7 @@
 
 <h1 align="center">General Arma Utilities</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Version-1.0.1-blue?style=flat-square" alt="General Arma Utilities Version">
+    <img src="https://img.shields.io/badge/Version-1.1.0-blue?style=flat-square" alt="General Arma Utilities Version">
     <a href="https://github.com/DartsArmaMods/GeneralArmaUtilities/issues">
         <img src="https://img.shields.io/github/issues-raw/DartsArmaMods/GeneralArmaUtilities.svg?style=flat-square&label=Issues" alt="General Arma Utilities Issues">
     </a>
@@ -29,6 +29,8 @@ The project is entirely **open-source** and any contributions are welcome.
 - Customizable Years
   - The "year" from the Environment menu in the Eden Editor can now be customized with any year range. Look at the Addon Options to configure a custom range.
   - Press <kbd>Ctrl</kbd> + <kbd>I</kbd> to open the Environment menu.
+- Vehicle Texture Switcher (*Requires ACE Interact Menu*)
+  - Adds ACE actions to swtich between the available skins for a vehicle.
 
 ## Contributing
 For new contributers, see the [Contributing Setup & Guidelines](./.github/CONTRIBUTING.md).

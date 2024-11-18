@@ -15,6 +15,7 @@ mission = "Previews.VR"
 parameters = ["-name=Previews"]
 
 [ace]
+extends = "default"
 workshop = [
     "463939057", # ACE
 ]

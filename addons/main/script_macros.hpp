@@ -75,6 +75,8 @@
 // Statements and conditions
 #define CLAMP(var1,lower,upper) (lower max (var1 min upper))
 
+#define IS_STOPPED(var1) speed var1 < 1 and {speed var1 > -1}
+
 // weapon types
 #define TYPE_WEAPON_PRIMARY 1
 #define TYPE_WEAPON_HANDGUN 2

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="gau">
+    <Package name="SkinSwitcher">
+        <Key ID="STR_gau_skinswitcher_displayName">
+            <English>Skin Switcher</English>
+        </Key>
+        <Key ID="STR_gau_skinswitcher_enabled_tooltip">
+            <English>If enabled, players can change the textures used on their vehicles using ACE interactions.</English>
+        </Key>
+        <Key ID="STR_gau_skinswitcher_switchSkin">
+            <English>Switch Skin</English>
+        </Key>
+    </Package>
+</Project>

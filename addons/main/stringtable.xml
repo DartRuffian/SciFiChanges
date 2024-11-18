@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="gau">
     <Package name="Main">
+        <Key ID="STR_gau_main_displayName">
+            <English>Main</English>
+        </Key>
         <Key ID="STR_gau_main_url">
             <English>https://github.com/DartsArmaMods/GeneralArmaUtilities</English>
             <Czech>https://github.com/DartsArmaMods/GeneralArmaUtilities</Czech>
