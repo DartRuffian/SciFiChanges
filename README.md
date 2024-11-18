@@ -2,7 +2,7 @@
 
 <h1 align="center">General Arma Utilities</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Version-1.0.1-blue?style=flat-square" alt="General Arma Utilities Version">
+    <img src="https://img.shields.io/badge/Version-1.1.0-blue?style=flat-square" alt="General Arma Utilities Version">
     <a href="https://github.com/DartsArmaMods/GeneralArmaUtilities/issues">
         <img src="https://img.shields.io/github/issues-raw/DartsArmaMods/GeneralArmaUtilities.svg?style=flat-square&label=Issues" alt="General Arma Utilities Issues">
     </a>
