@@ -21,7 +21,10 @@ TRACE_2("fnc_canSwitch",_vehicle,_player);
 
 if (!GVAR(enabled)) exitWith { false };
 
-alive _vehicle and {_player isEqualTo currentPilot _vehicle} and
+// currentPilot on statics returns objNull
+private _isPilot = _player isEqualTo currentPilot _vehicle or {_vehicle isKindOf "StaticWeapon"};
+
+_isPilot and {alive _vehicle} and
 {_vehicle getVariable [QGVAR(canSwitchSkin), true]} and
 {_player getVariable [QGVAR(canSwitchSkin), true]} and {IS_STOPPED(_vehicle)} and {
     private _textureSources = getArray (configOf _vehicle >> "textureList");
