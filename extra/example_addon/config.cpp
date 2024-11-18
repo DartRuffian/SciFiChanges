@@ -7,7 +7,7 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "sfs_main"
+            "gau_main"
         };
         units[] = {};
         weapons[] = {};

@@ -1,6 +1,6 @@
-name = "Sci-Fi Systems"
+name = "General Arma Utilities"
 author = "DartRuffian"
-prefix = "sfs"
+prefix = "gau"
 mainprefix = "z"
 
 [version]
@@ -11,8 +11,8 @@ git_hash = 0
 include = [
     "mod.cpp",
     "meta.cpp",
-    "logo_sfs.png",
-    "logo_sfs_ca.paa",
+    "logo_gau.png",
+    "logo_gau_ca.paa",
     "LICENSE.md",
     "README.md",
 ]
