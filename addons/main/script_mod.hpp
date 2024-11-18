@@ -1,6 +1,6 @@
 #define MAINPREFIX z
-#define PREFIX sfs
-#define MOD_NAME Sci-Fi Systems
+#define PREFIX gau
+#define MOD_NAME General Arma Utilities
 #define AUTHOR "DartRuffian"
 
 #define REQUIRED_VERSION 2.16

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="sfs">
+<Project name="gau">
     <Package name="Main">
-        <Key ID="STR_sfs_main_url">
-            <English>https://github.com/DartsArmaMods/SciFiSystems</English>
-            <Czech>https://github.com/DartsArmaMods/SciFiSystems</Czech>
-            <French>https://github.com/DartsArmaMods/SciFiSystems</French>
-            <Spanish>https://github.com/DartsArmaMods/SciFiSystems</Spanish>
-            <Italian>https://github.com/DartsArmaMods/SciFiSystems</Italian>
-            <Polish>https://github.com/DartsArmaMods/SciFiSystems</Polish>
-            <Portuguese>https://github.com/DartsArmaMods/SciFiSystems</Portuguese>
-            <Russian>https://github.com/DartsArmaMods/SciFiSystems</Russian>
-            <German>https://github.com/DartsArmaMods/SciFiSystems</German>
-            <Korean>https://github.com/DartsArmaMods/SciFiSystems</Korean>
-            <Japanese>https://github.com/DartsArmaMods/SciFiSystems</Japanese>
-            <Chinese>https://github.com/DartsArmaMods/SciFiSystems</Chinese>
-            <Chinesesimp>https://github.com/DartsArmaMods/SciFiSystems</Chinesesimp>
-            <Turkish>https://github.com/DartsArmaMods/SciFiSystems</Turkish>
+        <Key ID="STR_gau_main_url">
+            <English>https://github.com/DartsArmaMods/GeneralArmaUtilities</English>
+            <Czech>https://github.com/DartsArmaMods/GeneralArmaUtilities</Czech>
+            <French>https://github.com/DartsArmaMods/GeneralArmaUtilities</French>
+            <Spanish>https://github.com/DartsArmaMods/GeneralArmaUtilities</Spanish>
+            <Italian>https://github.com/DartsArmaMods/GeneralArmaUtilities</Italian>
+            <Polish>https://github.com/DartsArmaMods/GeneralArmaUtilities</Polish>
+            <Portuguese>https://github.com/DartsArmaMods/GeneralArmaUtilities</Portuguese>
+            <Russian>https://github.com/DartsArmaMods/GeneralArmaUtilities</Russian>
+            <German>https://github.com/DartsArmaMods/GeneralArmaUtilities</German>
+            <Korean>https://github.com/DartsArmaMods/GeneralArmaUtilities</Korean>
+            <Japanese>https://github.com/DartsArmaMods/GeneralArmaUtilities</Japanese>
+            <Chinese>https://github.com/DartsArmaMods/GeneralArmaUtilities</Chinese>
+            <Chinesesimp>https://github.com/DartsArmaMods/GeneralArmaUtilities</Chinesesimp>
+            <Turkish>https://github.com/DartsArmaMods/GeneralArmaUtilities</Turkish>
         </Key>
     </Package>
 </Project>

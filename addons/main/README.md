@@ -1,7 +1,7 @@
-sfs_main
+gau_main
 ===================
 
-Main Addon for Sci-Fi Systems
+Main Addon for General Arma Utilities
 
 ## Maintainers
 
