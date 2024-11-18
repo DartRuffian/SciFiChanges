@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="gau">
+    <Package name="Common">
+        <Key ID="STR_gau_common_displayName">
+            <English>Common</English>
+        </Key>
+        <!-- From https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml -->
+        <Key ID="STR_gau_common_enabled">
+            <English>Enabled</English>
+            <Czech>Povoleno</Czech>
+            <French>Activé</French>
+            <Spanish>Activado</Spanish>
+            <Italian>Attivato</Italian>
+            <Polish>Włączone</Polish>
+            <Portuguese>Ativado</Portuguese>
+            <Russian>Включено</Russian>
+            <German>Aktiviert</German>
+            <Korean>활성화</Korean>
+            <Japanese>有効化</Japanese>
+            <Chinese>啟用</Chinese>
+            <Chinesesimp>启用</Chinesesimp>
+            <Turkish>Etkin</Turkish>
+        </Key>
+    </Package>
+</Project>

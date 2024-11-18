@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="gau">
+    <Package name="addonName">
+        <Key ID="STR_gau_addonName_displayName">
+            <English>Addon Name</English>
+        </Key>
+    </Package>
+</Project>

@@ -1,5 +1,5 @@
-#define COMPONENT addonName
-#define COMPONENT_BEAUTIFIED Addon Name
+#define COMPONENT common
+#define COMPONENT_BEAUTIFIED Common
 #include "\z\gau\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
