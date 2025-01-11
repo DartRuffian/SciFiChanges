@@ -9,11 +9,6 @@ dlc = []
 optionals = []
 parameters = []
 
-[previews]
-extends = "default"
-mission = "Previews.VR"
-parameters = ["-name=Previews"]
-
 [ace]
 extends = "default"
 workshop = [
